@@ -1,6 +1,10 @@
-pandas>=2.0.3
+pandas==2.1.4
 matplotlib>=3.8.1
-numpy>=1.26.1
+numpy>=1.26.4
 scipy==1.10.1          # стабильная версия с pre-built wheel для macOS
 evidently>=0.3.11
 jupyterlab>=4.3.2
+uv==0.8.8
+pandera==0.25.0
+pyarrow==21.0.0
+pydantic==2.11.7
