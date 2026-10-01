@@ -8,3 +8,4 @@ uv==0.8.8
 pandera==0.25.0
 pyarrow==21.0.0
 pydantic==2.11.7
+great_expectations==1.5.8
